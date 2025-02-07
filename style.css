@@ -1,0 +1,17 @@
+body {
+    background-color: #f8f9fa;
+    font-family: Arial, sans-serif;
+}
+
+.color-box {
+    width: 150px;
+    height: 150px;
+    background-color: #000;
+    border: 2px solid #333;
+    border-radius: 10px;
+}
+
+input[type="number"] {
+    text-align: center;
+    margin-top: 5px;
+}
